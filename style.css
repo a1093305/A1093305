@@ -1,0 +1,19 @@
+body    {font-family: 'roboto', '思源黑體';}
+.option {padding-right:64px;  vertical-align: middle;}
+.a      {position: relative; right:311px;}
+.feature    {display: inline-block; width: 306px; vertical-align: top;}
+.feature img    {width:84px; height: 84px;}
+.feature .title {display: block; text-align: center; font-size: 24px; color: #650300;}
+.feature .content {display: block; font-size: 16px;}
+.series {display: inline-block; width:416px; font-size: 48px; color:#AA0601;}
+.series img {width:416px; height: 416px;}
+.co-branding    {display: inline-block; margin:0;}
+.co-branding .text  {width:648px; height: 88px; background-color: #FFFFFF; }
+.co-branding img    {width:648px; height: 240px;}
+td  {padding:0; text-align:center; font-size: 48px; color:#AA0601; background-color: #FFFFFF; width:648px; border-color: #FFFFFF;}
+
+.recommend   {display: inline-block; margin:0 24px 0 0; width:306px; text-align: left; vertical-align: top; font-size: 16px; height:511px}
+.recommend .content {padding:0 0 16px 16px;}
+.recommend img  {width:306px; height:306px; margin-bottom: 16px;}
+.date   {display: block; margin:0; margin:16px;}
+.name   {padding-bottom:8px;}
